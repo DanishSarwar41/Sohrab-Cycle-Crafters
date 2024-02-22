@@ -1,4 +1,4 @@
-                                                                                      **Bicycle Repair and Sales Services Project**
+                                                                                      Bicycle Repair and Sales Services Project
 
 Welcome to our GitHub repository for the Bicycle Repair and Sales Services project! Here, we aim to revolutionize the world of cycling by offering top-notch repair and sales services for traditional bicycles as well as cutting-edge e-bikes.
 Our project is dedicated to enhancing the cycling experience for enthusiasts of all levels, from casual riders to seasoned professionals. 
